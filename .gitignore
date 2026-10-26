@@ -1,0 +1,7 @@
+GPower.exe
+*.exe
+*.gpr
+ghidra*/
+*.gzf
+__pycache__/
+.pytest_cache/
